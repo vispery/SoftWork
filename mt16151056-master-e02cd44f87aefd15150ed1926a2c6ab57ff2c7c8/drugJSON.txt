@@ -1,0 +1,9 @@
+{
+  "drugId" : "1111",
+  "fdbGcnSeqNum" : "1234",
+  "ndcId" : "1234567",
+  "brandName" : "GenericBrand",
+  "route" : "Route x",
+  "genericName" : "Generic Name",
+  "strength" : 1000
+}

@@ -1,0 +1,11 @@
+{
+  "ncpdpid" : "2929210000",
+  "storeNumber" : "Store #5",
+  "storeName" : "Name",
+  "npi" : "999",
+  "h24Store" : true,
+  "address" : "8000 Pharm add\nRoom1\nCity, MD\n20005",
+  "email" : "pharmer@pharmacy.com",
+  "fax" : "2020400",
+  "phonePrimary" : "240-242-2644"
+}
